@@ -2,3 +2,6 @@ Hola git , esta es mi primera línea
 Mi segunda línea en git
 Mi tercera y última línea en git
 Fin
+
+
+Mi primera línea en git desde la rama developer
